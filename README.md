@@ -1,4 +1,4 @@
-# Survival-Probability-in-the-Titanic-Disaster
+# SURVIVAL PROBABILITY IN THE TITANIC SHIP DISASTER
 ## This is data collected from the Titanic tragedy of 15th April 1912.
 In the year 1912 the world faced one of the greatest tragedy that would come to be known by many down the years. 
 The RMS Titanic was a British passenger liner that was operated by the White Star Line. It was reported to have sank in the North Atlantic Ocean.
